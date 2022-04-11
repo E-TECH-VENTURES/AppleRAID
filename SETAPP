@@ -1,0 +1,15 @@
+<#SETAPP>
+#How to fix an external disk drive that won't show up on a Mac
+While it’s impossible to instantly figure out why an external disk drive is not showing up, you have to try to fix the problem
+-[] Start with the basics:
+
+-Check whether the drive is properly plugged in. It sounds obvious, but since this relies on a wire - either a USB cable or HDMI cable - if it’s not connected properly then it won’t appear on your desktop.
+Faulty cable. Assuming it’s plugged in correctly, not wobbly or loose, the cable could be at fault. Try connecting the same device with a different cable.
+Damaged USB or flash drive port. It could be a hardware issue with the Mac. If you’ve got another port, try connecting the device to that one.
+Reboot your Mac. Sometimes, if a USB disk won't boot, the cause is a macOS issue. Hopefully, some data damage can be fixed by restarting. Choose the Apple menu > Restart. Or press and hold the power button and, when a dialog box appears, click Restart or press R.  Restarting your Mac essentially clears your macOS’s memory and starts it up fresh. 
+Incorrectly formatted drive. Not every external drive is optimized for Macs. It could be that you are trying to connect something only fit to interact with Windows devices. If you’ve got a PC or laptop, it’s worth connecting and seeing if you can access the files through another device. The best way to look for an incorrectly formatted drive is to go to
+Apple (in the top toolbar menu) > About This Mac > Storage.
+See if the external drive shows up here. For more information, go to the same menu option, then select System Report.
+Mac not formatted to display external drives on the desktop. It could be that your Mac already recognizes the device, but just isn’t showing its icon on the desktop screen. Even if that is the case, the drive will still appear in the left-hand column of the Finder menu under Locations. You should be able to access your drive that way, and, in the Finder menu under Preferences > General, you can check External Drives to ensure that from now on it shows up on your desktop too.
+Reset NVRAM. To do this, shut down or restart your Mac, switch it back on and immediately press these four keys together for at least 20 seconds: Option, Command, P, and R. It should look as though your Mac has started again; if it has, release the keys when you hear the second startup chime. Hopefully, the hard drive has shown up now.
+Check Apple’s Disk Utility to see if an external drive is showing up. Disk Utility is within System Preferences, or you can find it using Spotlight. If it is visible, then click the option to Mount, which should make it visible on the desktop and in the External Drives option in the Finder menu.
